@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@android:drawable/ic_search_category_default"
+            android:title="@string/search_recipe" />
+        <item
+            android:id="@+id/nav_add_recipe"
+            android:icon="@drawable/ic_receipt_white_48dp"
+            android:title="@string/add_recipe" />
+        <item
+            android:id="@+id/nav_add_category"
+            android:icon="@drawable/ic_create_new_folder_white_48dp"
+            android:title="@string/add_category" />
+    </group>
+
+</menu>

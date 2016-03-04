@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="units">
+        <item>sztuk</item>
+        <item>łyżeczka</item>
+        <item>łyżka</item>
+        <item>szklanka</item>
+        <item>ml</item>
+        <item>l</item>
+        <item>gr</item>
+        <item>kg</item>
+    </string-array>
+
+    <string name="app_name">Książka kucharska</string>
+    <string name="action_save_recipe">Zapisać przepis?</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="add_category">Dodaj kategorię</string>
+    <string name="add_image">Dodaj obrazek</string>
+    <string name="add_recipe">Dodaj przepis</string>
+    <string name="cancel">Anuluj</string>
+    <string name="category_label">Kategorie</string>
+    <string name="delete_image">Usuń obrazek</string>
+    <string name="delete_img_question">Jesteś pewny, że chcesz usunąć ten obrazek?</string>
+    <string name="delete_ingredient">Jesteś pewny, że chcesz usunąć ten składnik?</string>
+    <string name="delete_ingredient_label">Usuń składnik</string>
+    <string name="delete_recipe">Jesteś pewny, że chcesz usunąć ten przepis?</string>
+    <string name="delete_recipe_label">Usuń przepis</string>
+    <string name="description">Dodaj tutaj swój opis</string>
+    <string name="description_label">Opis</string>
+    <string name="description_title">Opis</string>
+    <string name="fill_fields">Wypełnij wszystkie pola!</string>
+    <string name="images_label">Obrazki</string>
+    <string name="ingredient_name">Podaj składnik tutaj</string>
+    <string name="ingredients_label">Składniki</string>
+    <string name="recipe_name">Nazwa przepisu</string>
+    <string name="recipe_name_label">Nazwa</string>
+    <string name="save">Zapisz</string>
+    <string name="save_recipe_title">Zapisać przepis?</string>
+    <string name="search">Szukaj...</string>
+    <string name="search_recipe">Szukaj</string>
+    <string name="share">Podziel się</string>
+    <string name="toast_add_recipe">Przepis dodano!</string>
+    <string name="title_activity_add_new_recipe">Dodaj/Zmień przepis</string>
+</resources>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="units">
+        <item>штуки</item>
+        <item>ч.л.</item>
+        <item>ст.л.</item>
+        <item>стакан</item>
+        <item>мл</item>
+        <item>л</item>
+        <item>гр</item>
+        <item>кг</item>
+    </string-array>
+
+
+    <string name="app_name">Кулинарная книга</string>
+    <string name="action_save_recipe">Сохранить рецепт?</string>
+    <string name="action_settings">Настройки</string>
+    <string name="add_category">Добавить категорию</string>
+    <string name="add_image">Добавить картинку</string>
+    <string name="add_recipe">Добавить рецепт</string>
+    <string name="cancel">Отмена</string>
+    <string name="category_label">Категория</string>
+    <string name="delete_image">Удалить картинку</string>
+    <string name="delete_img_question">Вы уверены, что хотите удалить картинку?</string>
+    <string name="delete_ingredient">Вы уверены, что хотите удалить этот ингедиент?</string>
+    <string name="delete_ingredient_label">Удалить ингредиент</string>
+    <string name="delete_recipe">Вы уверены, что хотите удалить этот рецепт?</string>
+    <string name="delete_recipe_label">Удалить рецепт</string>
+    <string name="description">Добавьте сюда описание</string>
+    <string name="description_label">Описание</string>
+    <string name="description_title">Описание</string>
+    <string name="fill_fields">Заполните все поля!</string>
+    <string name="images_label">Картинки</string>
+    <string name="ingredient_name">Название ингредиента</string>
+    <string name="ingredients_label">Ингредиенты</string>
+    <string name="ok">ДА</string>
+    <string name="recipe_name">Название рецепта</string>
+    <string name="recipe_name_label">Название</string>
+    <string name="save">Сохранить</string>
+    <string name="save_recipe_title">Сохранить рецепт?</string>
+    <string name="search">Найти...</string>
+    <string name="search_recipe">Поиск</string>
+    <string name="share">Поделиться</string>
+    <string name="toast_add_recipe">Рецепт добавлен!</string>
+    <string name="title_activity_add_new_recipe">Добавить/Изменить рецепт</string>
+</resources>
